@@ -3,7 +3,7 @@ Encode to Bubble Babble
 
 ## Intro
 
-OpenSSH'  ssh-keygen  has  an  implementation  of  the  bubble  babble
+OpenSSH's  ssh-keygen  has  an  implementation of  the  bubble  babble
 encoding for  key fingerprints. This  is a little wrapper  around that
 function so you can encode anything to bubble babble.
 
