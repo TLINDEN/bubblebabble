@@ -20,10 +20,10 @@ function so you can encode anything to bubble babble.
 
 ## Copyright + Author
 
-Copyright (c) 2017 T.v.Dein. All rights reserved.
+- Copyright (c) 2017 T.v.Dein. All rights reserved.
 
 fingerprint_bubblebabble(): 
 
-Copyright (c) 2000, 2001 Markus Friedl.  All rights reserved.
-Copyright (c) 2008 Alexander von Gernler.  All rights reserved.
-Copyright (c) 2010,2011 Damien Miller.  All rights reserved.
+- Copyright (c) 2000, 2001 Markus Friedl.  All rights reserved.
+- Copyright (c) 2008 Alexander von Gernler.  All rights reserved.
+- Copyright (c) 2010,2011 Damien Miller.  All rights reserved.
